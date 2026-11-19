@@ -4,11 +4,6 @@ This project demonstrates the clustering of mall customers based on their spendi
 
 https://mall-customer-segmentation-project.streamlit.app/
 
-## Watch the Video 📺
-
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/8SftgRodXiU)
-
-![output](https://github.com/user-attachments/assets/40d664ec-98e4-4b11-85da-3d0cbd27cc11)
 
 
 ## Files in the Repository
@@ -113,8 +108,6 @@ pip install -r requirements.txt
 **If you found it useful, leave a ⭐ here!**
 
 ```bash
-Author: DataScientist00
-Data Scientist
-Email: nikzmishra@gmail.com
+Email: srishtipathak066@gmail.com
 
 ```
